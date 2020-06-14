@@ -1,2 +1,2 @@
-class Dog
+class Dog < AvtiveRecord::Base
 end
